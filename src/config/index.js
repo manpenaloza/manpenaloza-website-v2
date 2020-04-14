@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Manuel Penaloza | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'I am a software engineer based near Graz (Austria) who specializes in architecting and developing high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Manuel Penaloza, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+  siteUrl: 'https://manpenaloza.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-138398009-2',
+  googleVerification: '_qPD0hoV63ZEv-6nRvC1YJspfeP8mxZgONO1GV7CQf4',
+  name: 'Manuel Penaloza',
+  location: 'Graz / Kirchbach in der Steiermark, Austria',
+  email: 'manuel.penaloza@gmx.at',
+  github: 'https://github.com/manpenaloza',
+  twitterHandle: '@manpenaloza',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/manpenaloza',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/penalozamanuel/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/manpenaloza',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/manpenaloza',
     },
   ],
 
