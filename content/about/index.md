@@ -2,17 +2,21 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Javascript (ES6+)
+  - HTML/JSX
   - React
-  - Vue
+  - CSS/CSS-in-JS
+  - TailwindCSS
   - Node.js
   - Express
-  - NativeScript
+  - React Native
+  - Gatsby
+  - GraphQL
+  - Project Management Tools (Jira, Trello)
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! My name is Manuel, a software engineer based in Kirchbach in der Steiermark (Austria) who enjoys building software that lives and works on computers. I develop websites and web applications that provide intuitive user interfaces with efficient and modern backends.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I'm a self-taught developer who has studied International Marketing (BA) and Online Media Marketing (MSc.). Learning myself to write code, create software/websites and thus getting proficient technical knowledge besides business insights, enables me to provide market-effective software solutions considering a laser focus on efficient development processes. Take a look at the Experience section of my website to find out more about important projects I've worked on and contributed to.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've been working with recently and enjoy to use:
